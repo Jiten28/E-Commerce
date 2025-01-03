@@ -23,13 +23,13 @@ To run the project locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/sports-ecommerce-website.git
+   git clone https://github.com/Jiten28/E-Commerce
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd sports-ecommerce-website
+   cd E-Commerce
    ```
 
 3. Open `index.html` in your browser:
