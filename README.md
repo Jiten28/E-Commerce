@@ -2,6 +2,9 @@
 
 A complete redesign of the original HTML/CSS/JavaScript e-commerce project. No packages, internet connection, build step or external fonts are needed.
 
+<img width="1440" height="840" alt="image" src="https://github.com/user-attachments/assets/e0f2c41a-bad9-4720-942b-1e10fdbc19cb" />
+
+
 ## Run locally
 
 Use a local web server so all pages share the same browser storage:
