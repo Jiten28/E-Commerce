@@ -6,6 +6,8 @@ A complete redesign of the original HTML/CSS/JavaScript e-commerce project. No p
 
 ## Live Link
 
+URL : 
+
 ## Run locally
 
 Use a local web server so all pages share the same browser storage:
