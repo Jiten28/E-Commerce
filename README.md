@@ -4,13 +4,12 @@ A complete redesign of the original HTML/CSS/JavaScript e-commerce project. No p
 
 <img width="1440" height="840" alt="image" src="https://github.com/user-attachments/assets/e0f2c41a-bad9-4720-942b-1e10fdbc19cb" />
 
-
 ## Run locally
 
 Use a local web server so all pages share the same browser storage:
 
 ```sh
-cd SportStore-premium
+cd E-Commerce
 python3 -m http.server 8000
 ```
 
